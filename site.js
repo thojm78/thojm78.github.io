@@ -1,5 +1,6 @@
 console.log('Hello')
 
+// Assignment 3
 const hours = new Date().getHours() // get the current hour
 
 const isMorning = hours >= 4 && hours < 12 // is it morning?
@@ -16,3 +17,6 @@ else if (isAfternoon) {
 else if (isEvening) {
     welcome.textContent = 'Good Evening'
 }
+
+// Assignment 4 - local storage
+localStorage.setItem("It's a secret to everybody.", 'Hi Ryan')
