@@ -65,7 +65,7 @@ nextButton.addEventListener('click', () => {
 })
 
 
-/*// Assignment 6 - to do list
+// Assignment 6 - to do list
 const todoList = document.querySelector('.todo-list')
 const todoInput = document.querySelector('#new-todo')
 const addButton = document.querySelector('#addTodo')
@@ -102,7 +102,7 @@ addButton.addEventListener('click', () => {
     todoInput.value = ''
 
     renderTodos()
-})*/
+})
 
 
 // Assignment 7 - API fetch

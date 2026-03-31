@@ -59,3 +59,20 @@ img {
     gap: 10px;
     margin-top: 10px;
 }
+
+/* Assignment 6 - todo list */
+#todolist {
+    padding: 2em;
+    text-align: center;
+}
+
+.todo-list {
+    display: inline-block;
+    text-align: left;
+    padding: 2em;
+}
+
+/* Assignment 7 - API fetch */
+#pokemonImage {
+    padding: 2em;
+}
